@@ -18,3 +18,6 @@ htmlcov/
 *.log
 *.tmp
 *.bak
+
+docs/Phase1_Technical_Learning_Manual.md
+docs/Phase1_Technical_Learning_Manual.docx
